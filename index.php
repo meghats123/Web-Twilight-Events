@@ -17,22 +17,22 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="services.html">Services</a>
+                <a class="nav-link" href="services.php">Services</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="About Us.html">About Us</a>
+                <a class="nav-link" href="About Us.php">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="gallery.html">Gallery</a>
+                <a class="nav-link" href="gallery.php">Gallery</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact us.html">Contact Us</a>
+                <a class="nav-link" href="contact us.php">Contact Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="login.html">Log In</a>
+                <a class="nav-link" href="login.php">Log In</a>
               </li>
              
             </ul>
